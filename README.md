@@ -13,24 +13,6 @@ Faker维护仓库，收集全网目前能正常使用的脚本。本仓库的脚
 
 
 
-【Faker集合仓库纯净版】
-ql repo https://ghproxy.com/https://github.com/shufflewzc/faker3.git "jd_|jx_|gua_|jddj_|getJDCookie" "activity|backUp" "^jd[^_]|USER|function|utils|sendnotify|ZooFaker_Necklace.js|JDJRValidator_Pure|sign_graphics_validate|ql"
-
-【圈x订阅地址】
-
-https://ghproxy.com/https://raw.githubusercontent.com/shufflewzc/faker/main/qx.json
-
-【QX系列教程】
-https://www.notion.so/Quantumult-X-cd78c6ab616e4ebf947519b2dd690a0c
-
-【青龙系列教程】
-https://www.notion.so/Cent-OS-7-6-1c598629675145988b43a37998a1604a
-
-
-维护收集不易，各位看官高兴可打赏下~
-
-![image](https://user-images.githubusercontent.com/15306294/125604796-955a078a-0e28-4900-9a1c-6fabdc8feb7d.png)
-
 
 ## Special statement:
 
